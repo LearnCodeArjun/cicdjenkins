@@ -1,5 +1,5 @@
 public class Employee{
-    publiv Employee(){
+    public Employee(){
         System.out.println("creating employee object");
     }
     public void sayHii(){
